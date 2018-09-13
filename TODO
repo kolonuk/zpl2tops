@@ -1,0 +1,18 @@
+
+Can get postscript viewport from label dimensions
+location co-ords are easy enough to transfer
+
+
+fonts?
+ * will have to work out how ZPL deals with fonts
+ 
+images
+* need a technical document to describe how grf images are created and unpacked
+
+barcodes?
+
+Languages:
+* prefer python, which has the ability to be made into a REST API endpoint for conversion
+* JS could be embedded in existing web apps, but lack knowledge of JS
+* could do it in bash, but urgh!
+* I know openedge really well, but only suited for one particular environment and not universally usable
