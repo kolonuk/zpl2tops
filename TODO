@@ -9,7 +9,7 @@ fonts?
 images
 * need a technical document to describe how grf images are created and unpacked
 
-barcodes?
+barcodes?  https://pypi.org/project/treepoem/
 
 Languages:
 * prefer python, which has the ability to be made into a REST API endpoint for conversion
